@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='Hello World'/>
+        <page name='Pair'/>
+        <page name='Pair+dynamicMemberLookup'/>
+        <page name='file_length'/>
+        <page name='Wildcard'/>
+        <page name='UnboundedRange'/>
+        <page name='Type Safe URL'/>
+        <page name='PIKACHU'/>
+        <page name='Functions'/>
+    </pages>
+</playground>
